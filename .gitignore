@@ -1,0 +1,5 @@
+/venv/
+/friendlier_json.egg-info
+/dist
+/build
+/.idea
