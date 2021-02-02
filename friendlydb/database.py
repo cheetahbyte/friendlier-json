@@ -3,7 +3,7 @@ import os
 from typing import Union
 from datetime import datetime
 import logging
-from converter import JsonObject
+from .converter import JsonObject
 
 import typing
 
@@ -109,4 +109,4 @@ class Friendly(object):
             self.cache.append(arg)
             with open(self.path, 'w') as f:
                 json.dump(dat, f, indent=4)
-        return True
+        return args
