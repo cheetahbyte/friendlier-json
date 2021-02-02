@@ -2,6 +2,7 @@
 ![CodeQL](https://github.com/py-alpha-woelfchen/friendlier-json/workflows/CodeQL/badge.svg)
 ![PyPI - License](https://img.shields.io/pypi/l/friendlier-json)
 ![PyPI](https://img.shields.io/pypi/v/friendlier-json)
+![Discord](https://img.shields.io/discord/718571168403292251)
 
 #### Why should you use it?
 - It was made with ❤️ !
