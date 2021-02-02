@@ -1,6 +1,7 @@
 # Friendlier Json
 ![CodeQL](https://github.com/py-alpha-woelfchen/friendlier-json/workflows/CodeQL/badge.svg)
-Bored of the normal json? Fed up with SQL? Then Friendlier Json will be exactly the right thing for you!
+
+
 #### Why should you use it?
 - It was made with ❤️ !
 - It is comparatively fast ⏩ ! (more about this soon)
