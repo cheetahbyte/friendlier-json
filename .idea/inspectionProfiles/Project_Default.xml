@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="application-utility" />
+            <item index="1" class="java.lang.String" itemvalue="LibAppArmor" />
+            <item index="2" class="java.lang.String" itemvalue="ufw" />
+            <item index="3" class="java.lang.String" itemvalue="apparmor" />
+            <item index="4" class="java.lang.String" itemvalue="netsnmp-python" />
+            <item index="5" class="java.lang.String" itemvalue="team" />
+            <item index="6" class="java.lang.String" itemvalue="pacman-mirrors" />
+            <item index="7" class="java.lang.String" itemvalue="gestures" />
+            <item index="8" class="java.lang.String" itemvalue="gufw" />
+            <item index="9" class="java.lang.String" itemvalue="chrome-gnome-shell" />
+            <item index="10" class="java.lang.String" itemvalue="btrfsutil" />
+            <item index="11" class="java.lang.String" itemvalue="layoutswitcherlib" />
+            <item index="12" class="java.lang.String" itemvalue="pwquality" />
+            <item index="13" class="java.lang.String" itemvalue="configobj" />
+            <item index="14" class="java.lang.String" itemvalue="louis" />
+            <item index="15" class="java.lang.String" itemvalue="git-cola" />
+            <item index="16" class="java.lang.String" itemvalue="lensfun" />
+            <item index="17" class="java.lang.String" itemvalue="validate" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
