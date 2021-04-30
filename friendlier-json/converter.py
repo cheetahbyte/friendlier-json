@@ -18,3 +18,11 @@ class JsonObject(object):
 
     def to_json_wi(self) -> dict:
         return self.__dict__['data']
+
+
+class Document(object):
+    r""" Takes a Dictonnary and makes a beautiful class out of it."""
+
+    def __init__(self, dictonary: dict) -> None:
+        for key in dictonary.keys():
+            setattr(self, str(key), dictonary[key])
